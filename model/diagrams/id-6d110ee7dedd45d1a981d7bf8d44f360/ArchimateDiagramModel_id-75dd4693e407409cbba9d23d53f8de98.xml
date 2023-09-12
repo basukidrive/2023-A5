@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ektensifikasi - Stakeholder Motivation"
+    id="id-75dd4693e407409cbba9d23d53f8de98">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fcbc0590b89c4b0090dac3177b1e8566">
+    <bounds
+        x="156"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-fa945c5d025841c5b671805bae90a402.xml#id-fa945c5d025841c5b671805bae90a402"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1adbde91941843e98267da2affdd3c9c">
+    <bounds
+        x="336"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-ad724a49500e4eac8d4f17198d068935.xml#id-ad724a49500e4eac8d4f17198d068935"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7e109eb1a897431e81b68f157e77f734">
+    <bounds
+        x="528"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-2f59b8eab1534dabb7a9a9cf17e2fe84.xml#id-2f59b8eab1534dabb7a9a9cf17e2fe84"/>
+  </children>
+</archimate:ArchimateDiagramModel>
