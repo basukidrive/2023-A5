@@ -18,19 +18,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-cc8336d457b94c809a6ff58e7b6e9472"
-      type="1">
-    <bounds
-        x="60"
-        y="120"
-        width="205"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Stakeholder"
-        href="Stakeholder_id-927ee7a490b74f71850601cd66f59bad.xml#id-927ee7a490b74f71850601cd66f59bad"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b2286cb8212144c79afde9ba0b8da4a7"
       type="1">
     <bounds
