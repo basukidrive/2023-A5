@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-747426f202c74c0192e9a3bc94bd0f16"
-      targetConnections="id-7b2d66ff5de5419585ad0fc3dba598e2 id-89bfb93db79a485f9e3becfb71737035">
+      targetConnections="id-89bfb93db79a485f9e3becfb71737035 id-7b2d66ff5de5419585ad0fc3dba598e2">
     <bounds
         x="396"
         y="216"
@@ -79,5 +79,29 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-fa945c5d025841c5b671805bae90a402.xml#id-fa945c5d025841c5b671805bae90a402"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-7a308a87b96d43f2935c0b43e16b7f11">
+    <bounds
+        x="564"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-a4b028f6b48a457d96ead258322e6455.xml#id-a4b028f6b48a457d96ead258322e6455"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-308d852c759a4e669257272a4e981f82">
+    <bounds
+        x="816"
+        y="331"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_id-a0696d989ed649dea7abe903078b8491.xml#id-a0696d989ed649dea7abe903078b8491"/>
   </children>
 </archimate:ArchimateDiagramModel>
