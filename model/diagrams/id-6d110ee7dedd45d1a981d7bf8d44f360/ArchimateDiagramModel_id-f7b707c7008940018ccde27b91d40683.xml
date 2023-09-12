@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Solution Concept Diagram"
-    id="id-f7b707c7008940018ccde27b91d40683"/>
+    id="id-f7b707c7008940018ccde27b91d40683">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2f9042c8524440e2b41fe4d702f67346">
+    <bounds
+        x="168"
+        y="228"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-8b89198f4dd44851ae41f4061342b94b.xml#id-8b89198f4dd44851ae41f4061342b94b"/>
+  </children>
+</archimate:ArchimateDiagramModel>
