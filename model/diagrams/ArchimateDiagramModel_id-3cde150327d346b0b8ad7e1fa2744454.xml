@@ -1,32 +1,4 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Service"
-    id="id-3cde150327d346b0b8ad7e1fa2744454">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-bfa7714bd3224fc4b54169364eb3ccad"
-      type="1">
-    <bounds
-        x="408"
-        y="96"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Stakeholder"
-        href="Stakeholder_id-00c694dc5f5e44f18e8c39babf983f6b.xml#id-00c694dc5f5e44f18e8c39babf983f6b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5293d510079a443f8c5d258126399c77"
-      type="1">
-    <bounds
-        x="408"
-        y="504"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Stakeholder"
-        href="Stakeholder_id-97f35d0c6bf84a6f9547d25d63bb6b1a.xml#id-97f35d0c6bf84a6f9547d25d63bb6b1a"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="id-3cde150327d346b0b8ad7e1fa2744454"/>
