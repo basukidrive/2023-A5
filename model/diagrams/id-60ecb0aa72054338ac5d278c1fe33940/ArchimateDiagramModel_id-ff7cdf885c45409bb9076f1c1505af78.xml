@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e9a399a040a14d5f8c9d7bac5074032e">
     <bounds
-        x="396"
-        y="120"
+        x="372"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -55,8 +55,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f2490dbc7d0b462a83e6049f00dba95b">
     <bounds
-        x="588"
-        y="78"
+        x="552"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -67,12 +67,48 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-84c4346c60654b6fba57966345da49e2">
     <bounds
-        x="588"
-        y="156"
+        x="372"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-87587cc6ae604a16accdc2572795c675.xml#id-87587cc6ae604a16accdc2572795c675"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4fd6f0250ceb4ebebb38dcbf60786981">
+    <bounds
+        x="552"
+        y="132"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-0f2f9a28017f4289bed556d0d93395ea.xml#id-0f2f9a28017f4289bed556d0d93395ea"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ca4fbdbcdd714196ae1ba043587fa6db">
+    <bounds
+        x="372"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-725c8e52641d4caaaa67fab2dc76440b.xml#id-725c8e52641d4caaaa67fab2dc76440b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2c2588a953f64179a760926376a71e2b">
+    <bounds
+        x="552"
+        y="216"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-86732ce15b9f43a2baeafd80f050b0ec.xml#id-86732ce15b9f43a2baeafd80f050b0ec"/>
   </children>
 </archimate:ArchimateDiagramModel>
