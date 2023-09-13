@@ -17,7 +17,7 @@
           href="FlowRelationship_id-0c6b7b8b4fe94c02b36f4a4fa3de28df.xml#id-0c6b7b8b4fe94c02b36f4a4fa3de28df"/>
     </sourceConnections>
     <bounds
-        x="636"
+        x="588"
         y="212"
         width="120"
         height="55"/>
@@ -30,7 +30,7 @@
       id="id-fa30f706e2a4417893dfb4b90bd68958"
       targetConnections="id-69cb1885be064b5cb67011968451797b">
     <bounds
-        x="828"
+        x="792"
         y="212"
         width="120"
         height="55"/>
