@@ -54,10 +54,10 @@
           href="CompositionRelationship_id-8a30c3185d81485ab69b6a887522d32d.xml#id-8a30c3185d81485ab69b6a887522d32d"/>
     </sourceConnections>
     <bounds
-        x="228"
-        y="108"
-        width="673"
-        height="301"/>
+        x="300"
+        y="120"
+        width="601"
+        height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e666976e66b14080a313dbd01e082638"
@@ -72,7 +72,7 @@
             href="TriggeringRelationship_id-06f3daa8b472422e9f7e290ccec01216.xml#id-06f3daa8b472422e9f7e290ccec01216"/>
       </sourceConnections>
       <bounds
-          x="72"
+          x="36"
           y="72"
           width="120"
           height="55"/>
@@ -94,7 +94,7 @@
             href="TriggeringRelationship_id-de5a59056aa64f278a362a6277084a30.xml#id-de5a59056aa64f278a362a6277084a30"/>
       </sourceConnections>
       <bounds
-          x="264"
+          x="228"
           y="72"
           width="120"
           height="55"/>
@@ -116,7 +116,7 @@
             href="TriggeringRelationship_id-23c3001f39cb453891f2bf686625d4e2.xml#id-23c3001f39cb453891f2bf686625d4e2"/>
       </sourceConnections>
       <bounds
-          x="444"
+          x="408"
           y="72"
           width="157"
           height="55"/>
@@ -138,7 +138,7 @@
             href="TriggeringRelationship_id-41b1b62b07654a1dab92f3f0c38c78b9.xml#id-41b1b62b07654a1dab92f3f0c38c78b9"/>
       </sourceConnections>
       <bounds
-          x="372"
+          x="336"
           y="168"
           width="120"
           height="55"/>
@@ -151,9 +151,9 @@
         id="id-ae1bd9c5789e4b01bb45dba4a3490991"
         targetConnections="id-d25b55b3b0d745b1ab638e95ba397173 id-de6b82ba7c9349c7b7d184a6b3433c7e">
       <bounds
-          x="168"
+          x="96"
           y="168"
-          width="120"
+          width="156"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
@@ -185,9 +185,8 @@
           href="CompositionRelationship_id-707b9bc019bb482aaec57682f3801963.xml#id-707b9bc019bb482aaec57682f3801963"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="-12"
-        width="120"
+        x="72"
+        width="265"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
