@@ -153,9 +153,8 @@
         id="id-9ec9b907fbcb46e28d22bb31df293af2"
         targetConnections="id-1c42e7ab3e50463ca36c450635f6ac4e">
       <bounds
-          x="24"
           y="24"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
