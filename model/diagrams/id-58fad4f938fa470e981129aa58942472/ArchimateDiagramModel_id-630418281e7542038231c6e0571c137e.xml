@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bussiness proccess DJP"
-    id="id-630418281e7542038231c6e0571c137e">
+    id="id-630418281e7542038231c6e0571c137e"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5c720fef3db148df9602078936482c77">
