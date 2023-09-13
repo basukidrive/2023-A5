@@ -185,9 +185,8 @@
           href="CompositionRelationship_id-707b9bc019bb482aaec57682f3801963.xml#id-707b9bc019bb482aaec57682f3801963"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="-12"
-        width="120"
+        x="72"
+        width="265"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
