@@ -51,6 +51,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-707cac6fe35c451ea382cb7ed92bedd5.xml#id-707cac6fe35c451ea382cb7ed92bedd5"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-23c44003f87b4172a0aaa8014d29d771"
+        source="id-9426ead19f274909afad3f38b8c2aae9"
+        target="id-4567427becfe48edb7b5b5fee01c9a32">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-237f48fb548148fa96d1185c8eb63d61.xml#id-237f48fb548148fa96d1185c8eb63d61"/>
+    </sourceConnections>
     <bounds
         x="144"
         y="108"
@@ -100,8 +109,8 @@
         id="id-236f09096e664ea9adffa80774c4fc8a"
         targetConnections="id-a2729a8cb15842318708d91e05fd3495">
       <bounds
-          x="120"
-          y="144"
+          x="36"
+          y="132"
           width="120"
           height="55"/>
       <archimateElement
@@ -113,13 +122,26 @@
         id="id-1742181891964d5591446bf986f49d07"
         targetConnections="id-2ce3855da40a4e4084e3b7570bfe9d15">
       <bounds
-          x="276"
-          y="144"
+          x="192"
+          y="132"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_id-8d39bffc14a548dcbfce1ff419507fde.xml#id-8d39bffc14a548dcbfce1ff419507fde"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-4567427becfe48edb7b5b5fee01c9a32"
+        targetConnections="id-23c44003f87b4172a0aaa8014d29d771">
+      <bounds
+          x="348"
+          y="132"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-8fd1a2bb701f418c9e9b765b44eef1e9.xml#id-8fd1a2bb701f418c9e9b765b44eef1e9"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
