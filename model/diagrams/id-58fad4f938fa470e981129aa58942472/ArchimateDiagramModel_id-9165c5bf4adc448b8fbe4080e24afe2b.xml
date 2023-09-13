@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-df95f4ae79d74d41bf4a6475a8a5c4cc"
-      targetConnections="id-399f207b3094466da699dc7baf070f3f id-74637c70d8a4471fbf0a4551ca675692">
+      targetConnections="id-74637c70d8a4471fbf0a4551ca675692 id-399f207b3094466da699dc7baf070f3f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-966212f51e274849ae6fd1cbc57297bf"
