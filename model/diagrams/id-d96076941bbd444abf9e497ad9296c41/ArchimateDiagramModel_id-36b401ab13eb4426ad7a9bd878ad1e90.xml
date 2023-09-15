@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Network (high level diagram)"
+    name="1. Network (high level diagram)"
     id="id-36b401ab13eb4426ad7a9bd878ad1e90">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
